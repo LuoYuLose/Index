@@ -21,7 +21,7 @@ $('.kz-nav-btn').on('click', function() {
           title: title,
           shadeClose: shadeClose,
           anim:anim,
-          closeBtn: 2,
+          closeBtn: 0,
           isOutAnim: false,
           area: [area_w, area_h],
           content: content
